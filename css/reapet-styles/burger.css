@@ -1,0 +1,40 @@
+.burger {
+    --width: 30px;
+    --height: 30px;
+    --height-line: 4px;
+    --center: calc((var(--height) / 3) - (var(--height-line) / 2));
+    --center-: calc((var(--height) / -2) - (var(--height-line) / -2));
+    position: relative;
+    z-index: 10;
+    display: inline-flex;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: space-around;
+    width: var(--width);
+    height: var(--height);
+}
+
+.burger__line {
+    height: var(--height-line);
+    width: 100%;
+    background-color: var(--universal-color);
+    transition: transform 0.3s ease 0s;
+}
+
+.burger_active .burger__line:nth-child(1) {
+    transform: translateY(var(--center)) rotate(45deg);
+}
+
+.burger_active .burger__line:nth-child(2) {
+    transform: scaleX(0);
+}
+
+.burger_active .burger__line:nth-child(3) {
+    transform: translateY(var(--center-)) rotate(-45deg);
+}
+
+@media(min-width:992px) {
+    .burger {
+        display: none;
+    }
+}
