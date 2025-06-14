@@ -220,3 +220,106 @@ function convertImgSrcToWebp(imgElement, quality = 0.8) {
         observer.observe(document.body, { childList: true, subtree: true });
     });
 })();
+
+// HTML caching in localStorage (without date/expiration)
+(function () {
+    const CACHE_KEY = 'solarenergy_html_cache_v1';
+    const cached = localStorage.getItem(CACHE_KEY);
+
+    // Optionally, you could use the cached HTML here
+    // if (cached) {
+    //   document.open();
+    //   document.write(cached);
+    //   document.close();
+    // }
+
+    window.addEventListener('DOMContentLoaded', function () {
+        localStorage.setItem(CACHE_KEY, document.documentElement.outerHTML);
+    });
+})();
+
+// Cache all HTML files in localStorage (auto-detect)
+(function () {
+    const htmlFiles = [
+        'index.html',
+        'about.html',
+        'projects.html',
+        'contact.html',
+        '404.html'
+    ];
+    const base = location.origin + location.pathname.replace(/\/[^/]*$/, '/');
+
+    htmlFiles.forEach(file => {
+        const cacheKey = 'solarenergy_html_cache_' + file;
+        fetch(base + file)
+            .then(res => res.text())
+            .then(html => {
+                localStorage.setItem(cacheKey, html);
+            });
+    });
+})();
+
+// Cache all CSS files in localStorage (auto-detect)
+(function () {
+    const cssFiles = [
+        'css/reapet-styles/style.css',
+        'css/style/index.css',
+        'css/utils/video-modal.css',
+        'css/utils/video-controls.css',
+        'css/utils/tabs.css',
+        'css/utils/lightBox.css',
+        'css/utils/energy-calculator.css',
+        'css/style/about.css',
+        'css/utils/swiper.css',
+        'css/reapet-styles/hero.css',
+        'css/style/project.css',
+        'css/style/contact.css',
+        'css/style/404.css',
+        'css/reapet-styles/burger.css',
+        'css/reapet-styles/fonts.css',
+        'css/reapet-styles/footer.css',
+        'css/reapet-styles/header.css',
+        'css/reapet-styles/main.css',
+        'css/reapet-styles/mix-class.css',
+        'css/reapet-styles/nav.css',
+        'css/reapet-styles/reset.css',
+        'css/reapet-styles/vars.css'
+    ];
+    const base = location.origin + location.pathname.replace(/\/[^/]*$/, '/');
+
+    cssFiles.forEach(file => {
+        const cacheKey = 'solarenergy_css_cache_' + file;
+        fetch(base + file)
+            .then(res => res.text())
+            .then(css => {
+                localStorage.setItem(cacheKey, css);
+            });
+    });
+})();
+
+// Cache all JS files in localStorage (auto-detect)
+(function () {
+    const jsFiles = [
+        'js/main.js',
+        'js/video-modal.js',
+        'js/swiper.js',
+        'js/lightBox.js',
+        'js/loadMore.js',
+        'js/form.js',
+        'js/energy-calculator.js'
+    ];
+    const base = location.origin + location.pathname.replace(/\/[^/]*$/, '/');
+
+    jsFiles.forEach(file => {
+        const cacheKey = 'solarenergy_js_cache_' + file;
+        fetch(base + file)
+            .then(res => res.text())
+            .then(js => {
+                localStorage.setItem(cacheKey, js);
+            });
+    });
+})();
+
+
+
+
