@@ -5,6 +5,7 @@ const burger = document.querySelector(".burger");
 const overlay = document.querySelector(".main__overlay");
 const img = document.querySelectorAll("img[data-src]");
 
+
 links.forEach(link => {
     if (location.href.includes(link.href)) {
         link.classList.add("nav__link_active");
@@ -319,7 +320,3 @@ function convertImgSrcToWebp(imgElement, quality = 0.8) {
             });
     });
 })();
-
-
-
-

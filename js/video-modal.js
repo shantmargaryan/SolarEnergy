@@ -30,12 +30,14 @@ document.addEventListener('DOMContentLoaded', () => {
     playBtn.addEventListener('click', () => {
         videoModal.classList.add('active');
         playVideo();
+        if (typeof disableScroll === 'function') disableScroll();
     });
 
     // Close modal when clicking overlay
     if (overlay) {
         overlay.addEventListener('click', () => {
             closeModal();
+            if (typeof enableScroll === 'function') enableScroll();
         });
     }
 
