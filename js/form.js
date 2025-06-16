@@ -21,7 +21,6 @@ form.addEventListener('submit', function (e) {
       if (response.status == 200) {
         result.innerHTML = "Form submitted successfully";
       } else {
-        console.log(response);
         result.innerHTML = json.message;
       }
     })
