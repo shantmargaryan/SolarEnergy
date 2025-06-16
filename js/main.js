@@ -215,3 +215,4 @@ if (document.querySelector('.features__swiper')) {
             });
     });
 })();
+

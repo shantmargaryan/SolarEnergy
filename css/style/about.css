@@ -54,6 +54,21 @@
   }
 }
 
+.about__address {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--title-color);
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.about__address-icon {
+  width: 35px;
+  height: 35px;
+  fill: var(--universal-color);
+}
+
 .about__icon {
   flex-shrink: 0;
   width: 24px;
@@ -67,6 +82,7 @@
   display: flex;
   align-items: center;
   gap: 15px;
+  margin-block-end: 20px;
   color: var(--title-color);
   font-weight: 700;
   font-size: 25px;
