@@ -49,12 +49,12 @@
         position: static;
         background-color: transparent;
         overflow: visible;
+        width: 450px;
         height: auto;
     }
 
     .nav__list {
         flex-direction: row;
-        width: 440px;
     }
 
     .nav__link {
