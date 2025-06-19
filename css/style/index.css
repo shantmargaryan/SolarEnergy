@@ -217,7 +217,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 40px;
+    padding: 4%;
     overflow: hidden;
     background-size: cover;
     background-position: center;
@@ -259,6 +259,10 @@
             color: var(--title-color);
         }
 
+        & .discounts__item-text {
+            color: var(--title-color);
+        }
+
         /**
          * Discounts Item Title Styles
          */
@@ -287,22 +291,6 @@
         }
 
         /**
-         * Discounts Item Title Styles
-         */
-        & .discounts__item-title {
-            color: #fff;
-        }
-
-        /**
-         * Discounts Item Title Styles
-         */
-        & .discounts__item-title {
-            margin-block-end: 20px;
-            font-size: 18px;
-            color: #fff;
-        }
-
-        /**
          * Discounts Item Overlay Styles
          */
         &::after {
@@ -327,20 +315,6 @@
         &.scroll-active {
             opacity: 1;
             transform: translateX(0);
-        }
-
-        & .discounts__item-title {
-            color: #fff;
-        }
-
-        & .discounts__item-title {
-            margin-block-end: 20px;
-            font-size: 20px;
-            color: #fff;
-        }
-
-        & .discounts__item-text {
-            color: #fff;
         }
 
         &::after {
@@ -374,16 +348,6 @@
             transform: translateX(0);
         }
 
-        & .discounts__item-subtitle {
-            color: #fff;
-        }
-
-        & .discounts__item-title {
-            margin-block-end: 20px;
-            font-size: 18px;
-            color: #fff;
-        }
-
         &::before {
             content: "";
             position: absolute;
@@ -395,6 +359,20 @@
             background-color: rgba(0, 0, 0, 0.7);
         }
     }
+}
+
+.discounts__item-subtitle {
+    color: #fff;
+}
+
+.discounts__item-title {
+    margin-block-end: 20px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.discounts__item-text {
+    color: #fff;
 }
 
 .discounts__item-content {
