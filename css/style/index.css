@@ -244,6 +244,12 @@
             transform: translateX(0);
         }
 
+        & .discounts__item-clip-path {
+            background-color: var(--yellow-color);
+            left: 10px;
+            right: auto;
+        }
+
         /**
          * Media Query for Medium Screens
          */
@@ -387,7 +393,7 @@
 .discounts__item-clip-path {
     position: absolute;
     top: 0;
-    right: 30px;
+    right: 10px;
     display: flex;
     align-items: center;
     height: 100px;
