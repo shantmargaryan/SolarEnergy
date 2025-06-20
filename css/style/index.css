@@ -218,6 +218,7 @@
     align-items: center;
     gap: 10px;
     padding: 4%;
+    min-height: 350px;
     overflow: hidden;
     background-size: cover;
     background-position: center;
@@ -372,7 +373,7 @@
 }
 
 .discounts__item-title {
-    margin-block-end: 20px;
+    margin-block-end: 15px;
     font-size: 18px;
     color: #fff;
 }
@@ -396,7 +397,7 @@
     right: 10px;
     display: flex;
     align-items: center;
-    height: 100px;
+    height: clamp(100px, 5vw, 200px);
     padding: 5px;
     clip-path: polygon(0% 0%, 100% 0%, 100% 60%, 50% 100%, 0 60%);
     background-color: var(--universal-color);
@@ -404,7 +405,7 @@
 
 .discounts__item-discount {
     width: 45px;
-    font-size: 18px;
+    font-size: clamp(16px, 10vw, 18px);
     font-weight: 700;
     color: var(--title-color);
 }
