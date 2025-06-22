@@ -13,8 +13,12 @@ document.addEventListener('DOMContentLoaded', function () {
         return;
       }
 
+      function roundUp(value) {
+        return Math.ceil(value);
+      }
+
       // Divide the calculated amount by 5500 to find the kWh
-      const kwhFromAmd = (amd / 5500).toFixed(0);
+      const kwhFromAmd = roundUp(amd / 5500);
       resultDiv.textContent = `${amd} դրամը՝ ${kwhFromAmd} կՎտժ`;
     });
   }
