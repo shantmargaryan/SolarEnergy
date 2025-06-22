@@ -13,8 +13,7 @@
   margin-block-end: 50px;
 }
 
-.footer__content {
-}
+.footer__content {}
 
 .footer__logo {
   margin-block-end: 10px;
@@ -90,7 +89,20 @@
   color: #fff;
 }
 
-.footer__social {}
+.footer__social {
+  display: flex;
+  gap: 10px;
+}
+
+.footer__social-item {
+
+  &:nth-child(2) svg {
+    background: #833ab4;
+    background: linear-gradient(to right,
+        #833ab4, #fd1d1d, #fcb045);
+    border-radius: 7px;
+  }
+}
 
 .footer__social-link {}
 

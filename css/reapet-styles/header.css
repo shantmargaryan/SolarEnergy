@@ -31,7 +31,7 @@
 
 .header__logo-icon {
     width: 153px;
-    height: 89px;
+    height: 85px;
     flex-shrink: 0;
 }
 
@@ -74,6 +74,21 @@
     gap: 10px;
     color: #fff;
     font-size: 18px;
+}
+
+.header__social {
+    display: flex;
+    gap: 10px;
+}
+
+.header__social-item {
+
+    &:nth-child(2) svg {
+        background: #833ab4;
+        background: linear-gradient(to right,
+                #833ab4, #fd1d1d, #fcb045);
+        border-radius: 7px;
+    }
 }
 
 .header__contacts-icon,
