@@ -822,7 +822,7 @@
     }
 }
 
-.projext__link {
+.project__link {
     position: absolute;
     z-index: 20;
     bottom: 20px;
@@ -875,8 +875,6 @@
         opacity: 1;
     }
 }
-
-.work__subtitle {}
 
 .work__title {
     margin-block-end: 15px;

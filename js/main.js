@@ -127,10 +127,10 @@ if (document.querySelector('.features__swiper')) {
         },
         // Auto play
         autoplay: {
-            delay: 3000,
+            delay: 2000,
         },
         loop: true,
-        spaceBetween: 20,
+        spaceBetween: 10,
     });
 }
 

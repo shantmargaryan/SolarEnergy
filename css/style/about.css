@@ -211,7 +211,10 @@
 
 .features {}
 
-.features__container {}
+.features__container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
 
 .features__content {
   display: flex;
@@ -239,7 +242,8 @@
 
 .features__title {}
 
-.features__swiper {}
+.features__swiper {
+}
 
 .features__icon {
   width: 50px;

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+	<style type="text/css">
+		.st0 {
+			display: none;
+		}
+
+		.st1 {
+			display: inline;
+			fill: #FFFFFF;
+		}
+
+		.st2 {
+			display: inline;
+		}
+
+		.st3 {
+			fill: none;
+			stroke: #4C5159;
+			stroke-width: 2;
+			stroke-miterlimit: 10;
+		}
+
+		.st4 {
+			display: inline;
+			fill: none;
+			stroke: #4C5159;
+			stroke-width: 2;
+			stroke-miterlimit: 10;
+		}
+
+		.st5 {
+			display: inline;
+			fill: none;
+			stroke: #4C5159;
+			stroke-width: 2;
+			stroke-miterlimit: 10;
+			stroke-dasharray: 1.9857, 1.9857;
+		}
+
+		.st6 {
+			fill: none;
+			stroke: #4C5159;
+			stroke-width: 2;
+			stroke-miterlimit: 10;
+			stroke-dasharray: 1.9857, 1.9857;
+		}
+
+		.st7 {
+			fill: #4C5159;
+		}
+
+		.st8 {
+			font-family: 'Montserrat-Bold';
+		}
+
+		.st9 {
+			font-size: 7px;
+		}
+
+		.st10 {
+			display: inline;
+			fill: #74E2F0;
+		}
+
+		.st11 {
+			display: inline;
+			fill: #FBDA73;
+		}
+
+		.st12 {
+			display: inline;
+			fill: #F08E70;
+		}
+	</style>
+	<g id="bg" class="st0">
+		<rect id="XMLID_119_" x="-218" y="-268.2" class="st1" width="500" height="600.3" />
+	</g>
+	<g id="guideline" class="st0">
+	</g>
+	<g id="icons">
+		<g id="XMLID_36_" class="st0">
+			<g id="XMLID_9_" class="st2">
+				<path id="XMLID_14_" class="st3" d="M34.7,15l-0.6-2.4h-4.8L28.2,17c-1.6,0.4-3.1,1-4.5,1.9l-3.8-2.3L16.5,20l2.3,3.8
+				c-0.9,1.4-1.5,2.9-1.9,4.5l-4,1.3l0,4.8l4,0.9c0.4,1.6,1,3.2,1.9,4.5l-2.4,3.7l3.4,3.4l4-2.1c1.4,0.9,2.9,1.5,4.5,1.9l1.1,4.6
+				l4.8,0l1.1-4.6c1.6-0.4,3.2-1,4.5-1.9l4,2.3l3.4-3.4l-2.4-3.9c0.9-1.4,1.5-2.9,1.9-4.5l4-1.1l0-4.8L48.8,29" />
+				<path id="XMLID_16_" class="st3"
+					d="M38.2,34.3c-1,2.6-3.5,4.4-6.4,4.4c-3.8,0-6.9-3.1-6.9-6.9c0-2.7,1.5-5,3.8-6.1" />
+			</g>
+			<path id="XMLID_15_" class="st4"
+				d="M51,12.8c0,0,1.4,9.8-3.7,14.9s-14.9,3.7-14.9,3.7s-1.4-9.8,3.7-14.9S51,12.8,51,12.8z" />
+			<line id="XMLID_17_" class="st4" x1="32.4" y1="31.4" x2="51" y2="12.8" />
+			<line id="XMLID_21_" class="st4" x1="36.6" y1="27.2" x2="48.8" y2="25.7" />
+			<line id="XMLID_25_" class="st4" x1="36.6" y1="27.2" x2="37.4" y2="15.5" />
+			<line id="XMLID_29_" class="st4" x1="43.1" y1="20.7" x2="51.2" y2="19.7" />
+			<line id="XMLID_13_" class="st4" x1="43.1" y1="20.7" x2="43.9" y2="12.6" />
+		</g>
+		<g id="XMLID_68_" class="st0">
+			<path id="XMLID_50_" class="st4" d="M33.9,51.9c0,1-0.8,1.9-1.9,1.9c-1,0-1.9-0.8-1.9-1.9" />
+			<g id="XMLID_266_" class="st2">
+				<line id="XMLID_53_" class="st3" x1="33.9" y1="41.6" x2="33.9" y2="38.1" />
+				<line id="XMLID_49_" class="st3" x1="37.5" y1="37.2" x2="37.5" y2="41.6" />
+			</g>
+			<g id="XMLID_267_" class="st2">
+				<line id="XMLID_52_" class="st3" x1="26.4" y1="41.7" x2="26.4" y2="39.2" />
+				<line id="XMLID_51_" class="st3" x1="29.9" y1="38.1" x2="29.9" y2="41.7" />
+			</g>
+			<path id="XMLID_91_" class="st4" d="M27.3,37.4L23.9,38c-1.1,0.2-2-0.5-2-1.6l0,0c0-1.1,0.9-2.2,2-2.4l16.7-3.3
+			c1.1-0.2,2,0.5,2,1.6l0,0c0,1.1-0.9,2.2-2,2.4L32,36.4" />
+			<path id="XMLID_54_" class="st4" d="M26.9,30.5l-3,0.6c-1.1,0.2-2-0.5-2-1.6l0,0c0-1.1,0.9-2.2,2-2.4l16.7-3.3
+			c1.1-0.2,2,0.5,2,1.6l0,0c0,1.1-0.9,2.2-2,2.4l-8,1.5" />
+			<path id="XMLID_89_" class="st4" d="M25.9,23.6l-2,0.4c-1.1,0.2-2-0.5-2-1.6l0,0c0-1.1,0.9-2.2,2-2.4l16.7-3.3
+			c1.1-0.2,2,0.5,2,1.6l0,0c0,1.1-0.9,2.2-2,2.4l-8.1,1.7" />
+			<path id="XMLID_90_" class="st4" d="M29.3,16l-2.7,0.5c-1.1,0.2-2-0.5-2-1.6l0,0c0-1.1,0.9-2.2,2-2.4l11.3-2.2
+			c1.1-0.2,2,0.5,2,1.6l0,0c0,1.1-0.9,2.2-2,2.4l-5.6,1" />
+			<polyline id="XMLID_48_" class="st4" points="38.8,44.1 34.7,51.2 29.3,51.2 25.2,44.1 		" />
+			<path id="XMLID_134_" class="st4" d="M38.6,44.4H25.4c-0.1,0-0.2-0.1-0.2-0.2V42c0-0.1,0.1-0.2,0.2-0.2h13.3
+			c0.1,0,0.2,0.1,0.2,0.2v2.2C38.8,44.3,38.7,44.4,38.6,44.4z" />
+			<line id="XMLID_88_" class="st4" x1="12.5" y1="26.9" x2="15.3" y2="26.9" />
+			<line id="XMLID_87_" class="st4" x1="10.8" y1="20.2" x2="16.1" y2="22.2" />
+			<line id="XMLID_93_" class="st4" x1="16.5" y1="16.3" x2="18.5" y2="18" />
+			<line id="XMLID_131_" class="st4" x1="47.6" y1="16.1" x2="45.4" y2="17.9" />
+			<line id="XMLID_132_" class="st4" x1="53.2" y1="20.1" x2="47.9" y2="22.1" />
+			<line id="XMLID_155_" class="st4" x1="51.5" y1="26.9" x2="48.7" y2="26.8" />
+			<line id="XMLID_157_" class="st4" x1="53.2" y1="33.5" x2="47.9" y2="31.5" />
+			<line id="XMLID_160_" class="st4" x1="47.6" y1="37.6" x2="45.5" y2="35.7" />
+			<line id="XMLID_165_" class="st4" x1="16.2" y1="37.7" x2="18.6" y2="35.7" />
+			<line id="XMLID_166_" class="st4" x1="10.8" y1="33.4" x2="16.2" y2="31.5" />
+		</g>
+		<g id="XMLID_66_" class="st0">
+			<circle id="XMLID_56_" class="st4" cx="32" cy="31.6" r="2.8" />
+			<path id="XMLID_74_" class="st5" d="M37,12.7c1.3,0.3,2.5,0.8,3.6,1.4c2.3,1.1,4.3,2.7,6,4.6c1.7,1.9,3,4.1,3.8,6.5
+			c0.9,2.4,1.3,5,1.1,7.7c-0.1,1.6-0.4,3.1-0.8,4.6" />
+			<path id="XMLID_71_" class="st5" d="M13.5,38.2c-0.9-2.4-1.3-5-1.1-7.7c0.2-2.7,0.9-5.2,2-7.5c1.1-2.3,2.7-4.3,4.6-6
+			s4.1-3,6.5-3.8" />
+			<path id="XMLID_69_" class="st5" d="M46.9,44.3c-0.6,0.7-1.2,1.4-1.9,2c-1.9,1.7-4.1,3-6.5,3.8" />
+			<path id="XMLID_77_" class="st5" d="M17.6,44.7c0.6,0.7,1.2,1.4,1.9,2c1.9,1.7,4.1,3,6.5,3.8" />
+			<polyline id="XMLID_59_" class="st4" points="30,27.4 30,10.1 30.9,10.1 34.1,23.9 34.1,27.4 		" />
+			<polyline id="XMLID_57_" class="st4" points="36.7,31.9 51.6,40.7 51.2,41.4 37.6,37.2 34.6,35.4 		" />
+			<polyline id="XMLID_62_" class="st4" points="29.4,35.4 14.3,43.9 13.8,43.1 24.3,33.5 27.4,31.8 		" />
+			<line id="XMLID_67_" class="st4" x1="33.4" y1="37.4" x2="35.1" y2="53.9" />
+			<line id="XMLID_65_" class="st4" x1="28.9" y1="53.9" x2="30.6" y2="37.4" />
+		</g>
+		<g id="XMLID_100_" class="st0">
+			<circle id="XMLID_321_" class="st4" cx="19.1" cy="44.2" r="3.1" />
+			<circle id="XMLID_333_" class="st4" cx="47.9" cy="44.2" r="3.1" />
+			<path id="XMLID_73_" class="st4" d="M11.8,39.9v4.4c0,0.1,0.1,0.1,0.1,0.1h2.7" />
+			<path id="XMLID_75_" class="st4" d="M24.4,44.4h14.9c0.1,0,0.1-0.1,0.1-0.1v-3.3H25.4" />
+			<path id="XMLID_337_" class="st4" d="M43.5,44.2h-1.3V26.4c0-0.1,0.1-0.2,0.2-0.2h9.1c0.1,0,0.2,0.1,0.2,0.1l4,7.9V44
+			c0,0.1-0.1,0.2-0.2,0.2h-2.7" />
+			<polyline id="XMLID_334_" class="st4" points="46.3,26.2 46.3,33.9 52.7,33.9 		" />
+			<line id="XMLID_338_" class="st4" x1="45.4" y1="37.1" x2="47.3" y2="37.1" />
+			<line id="XMLID_335_" class="st4" x1="53.1" y1="39.5" x2="55.1" y2="39.5" />
+			<path id="XMLID_302_" class="st4" d="M27.7,28.5c0,0.9-0.7,1.6-1.6,1.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,1.6-3.1,1.6-3.1
+			S27.7,27.6,27.7,28.5z" />
+			<path id="XMLID_72_" class="st4" d="M35.6,38H12c-2,0-3.7-1.7-3.7-3.7V22.4c0-2,1.7-3.7,3.7-3.7h23.7c2,0,3.7,1.7,3.7,3.7v11.9
+			C39.3,36.3,37.7,38,35.6,38z" />
+			<line id="XMLID_81_" class="st4" x1="32.3" y1="35.2" x2="36.1" y2="35.2" />
+			<line id="XMLID_78_" class="st4" x1="32.3" y1="21.8" x2="36.1" y2="21.8" />
+			<line id="XMLID_84_" class="st4" x1="19.3" y1="16.6" x2="29.5" y2="16.6" />
+			<g id="XMLID_98_" class="st2">
+				<line id="XMLID_85_" class="st3" x1="12" y1="18.9" x2="12" y2="38" />
+				<line id="XMLID_82_" class="st3" x1="17.3" y1="18.9" x2="17.3" y2="38" />
+				<line id="XMLID_92_" class="st3" x1="12" y1="22.3" x2="16.8" y2="22.3" />
+				<line id="XMLID_86_" class="st3" x1="12.2" y1="26.7" x2="17" y2="26.7" />
+				<line id="XMLID_96_" class="st3" x1="12.4" y1="31.1" x2="17.3" y2="31.1" />
+			</g>
+			<circle id="XMLID_80_" class="st4" cx="26.1" cy="27.8" r="5.3" />
+		</g>
+		<g id="XMLID_106_" class="st0">
+			<g id="XMLID_105_" class="st2">
+				<g id="XMLID_97_">
+					<path id="XMLID_108_" class="st3" d="M40.2,31.8c0,0,0.9,6.1-2.3,9.3c-3.2,3.2-9.3,2.3-9.3,2.3s-0.9-6.1,2.3-9.3
+					C34.1,31,40.2,31.8,40.2,31.8z" />
+				</g>
+				<g id="XMLID_103_">
+					<path id="XMLID_104_" class="st3" d="M26.3,41.4c-1.3-1.5-2.7-3.7-2.7-6.2c0-4.6,5-8.2,5-8.2s2.1,1.6,3.5,4" />
+				</g>
+			</g>
+			<path id="XMLID_188_" class="st4" d="M24.1,26.4v-7.5c0-4.3,3.5-7.9,7.9-7.9l0,0c4.3,0,7.9,3.5,7.9,7.9v7.5" />
+			<path id="XMLID_94_" class="st4" d="M48.6,53H15.4c-0.1,0-0.2-0.1-0.2-0.2l1-5.9V21.6c0-0.1,0.1-0.2,0.2-0.2h31.2
+			c0.1,0,0.2,0.1,0.2,0.2v25.6l1,5.6C48.8,52.9,48.7,53,48.6,53z" />
+			<line id="XMLID_102_" class="st4" x1="16.9" y1="46.8" x2="31.3" y2="46.8" />
+		</g>
+		<g id="XMLID_128_" class="st0">
+			<path id="XMLID_110_" class="st4" d="M52.3,39.5H11.7c-0.1,0-0.3-0.1-0.3-0.3V11.4c0-0.1,0.1-0.3,0.3-0.3h40.7
+			c0.1,0,0.3,0.1,0.3,0.3v27.8C52.6,39.4,52.5,39.5,52.3,39.5z" />
+			<polyline id="XMLID_111_" class="st4" points="14.9,14.3 14.9,22.3 22.9,22.3 		" />
+			<polyline id="XMLID_113_" class="st4" points="28.2,14.3 28.2,22.3 36.2,22.3 		" />
+			<polyline id="XMLID_114_" class="st4" points="41.5,14.3 41.5,22.3 49.5,22.3 		" />
+			<polyline id="XMLID_118_" class="st4" points="14.9,26.3 14.9,34.3 22.9,34.3 		" />
+			<polyline id="XMLID_117_" class="st4" points="28.2,26.3 28.2,34.3 36.2,34.3 		" />
+			<polyline id="XMLID_115_" class="st4" points="41.5,26.3 41.5,34.3 49.5,34.3 		" />
+			<line id="XMLID_121_" class="st4" x1="28" y1="42" x2="28" y2="50.8" />
+			<line id="XMLID_120_" class="st4" x1="36" y1="42" x2="36" y2="50.8" />
+			<line id="XMLID_125_" class="st4" x1="31" y1="44.2" x2="33" y2="44.2" />
+			<line id="XMLID_122_" class="st4" x1="31" y1="48.2" x2="33" y2="48.2" />
+			<line id="XMLID_130_" class="st4" x1="17.9" y1="52.8" x2="45.7" y2="52.8" />
+		</g>
+		<g id="XMLID_135_" class="st0">
+			<line id="XMLID_168_" class="st4" x1="52.9" y1="27" x2="52.9" y2="47.1" />
+			<polyline id="XMLID_162_" class="st4" points="39.1,54.5 39.1,51.3 30.8,28.9 26.5,29 17.2,50.5 17.2,54.5 		" />
+			<line id="XMLID_161_" class="st4" x1="38.8" y1="50.4" x2="23.5" y2="35.1" />
+			<line id="XMLID_159_" class="st4" x1="17.3" y1="50.7" x2="33" y2="35" />
+			<line id="XMLID_156_" class="st4" x1="11.4" y1="29" x2="11.4" y2="43.7" />
+			<rect id="XMLID_154_" x="9.1" y="46.1" class="st4" width="4.7" height="8.4" />
+			<line id="XMLID_152_" class="st4" x1="44" y1="16.1" x2="10.9" y2="29.9" />
+			<path id="XMLID_149_" class="st4" d="M44.7,19.8l-12.5,5.3" />
+			<path id="XMLID_139_" class="st4" d="M11.4,33.7l12.8-5.2" />
+			<line id="XMLID_138_" class="st4" x1="57.1" y1="54.5" x2="6.9" y2="54.5" />
+			<polygon id="XMLID_137_" class="st4" points="46.3,19.8 52.3,25.3 53.5,24.8 53.6,16.7 51.2,11.2 47.5,9.5 45.3,10.5 44,14.4 		
+			" />
+			<line id="XMLID_136_" class="st4" x1="38.7" y1="50.8" x2="17.3" y2="50.8" />
+			<line id="XMLID_150_" class="st4" x1="27.3" y1="33.7" x2="29.1" y2="33.7" />
+			<polygon id="XMLID_140_" class="st4" points="55.4,54.5 50.8,54.5 51.8,49.2 54.4,49.2 		" />
+			<polyline id="XMLID_164_" class="st4" points="29.9,29 29.9,26.2 27.3,26.2 27.3,29 		" />
+		</g>
+		<g id="XMLID_171_" class="st0">
+			<g id="XMLID_153_" class="st2">
+				<polygon id="XMLID_170_" class="st3" points="40.3,51.5 23.7,51.5 22.6,49.2 22.6,42.1 41.4,42.1 41.4,49.1 			" />
+				<rect id="XMLID_169_" x="29.4" y="51.5" class="st3" width="5.3" height="3" />
+				<path id="XMLID_167_" class="st3" d="M45.3,27.7c0-7.3-5.9-13.2-13.2-13.2c-7.3,0-13.2,5.9-13.2,13.2c0,4.7,2.4,8.7,6.1,11.1v3.3
+				h14.3v-3.3C42.9,36.5,45.3,32.4,45.3,27.7z" />
+				<line id="XMLID_158_" class="st3" x1="22.6" y1="46.8" x2="30.8" y2="46.8" />
+			</g>
+			<path id="XMLID_172_" class="st5" d="M18.3,42.5c-3.5-3.5-5.7-8.3-5.7-13.7s2.2-10.2,5.7-13.7c3.5-3.5,8.3-5.7,13.7-5.7
+			s10.2,2.2,13.7,5.7c3.5,3.5,5.7,8.3,5.7,13.7S49.2,39,45.7,42.5" />
+			<path id="XMLID_173_" class="st4" d="M35.4,25.3c0.9,0.9,1.4,2.1,1.4,3.4c0,1.3-0.5,2.5-1.4,3.4c-0.9,0.9-2.1,1.4-3.4,1.4
+			c-1.3,0-2.5-0.5-3.4-1.4c-0.9-0.9-1.4-2.1-1.4-3.4c0-1.3,0.5-2.5,1.4-3.4" />
+			<line id="XMLID_174_" class="st4" x1="32.1" y1="22.4" x2="32.1" y2="29.7" />
+		</g>
+		<g id="XMLID_180_" class="st0">
+			<g id="XMLID_176_" class="st2">
+				<path id="XMLID_179_" class="st3" d="M46.9,26.5l0-3.8l-3.2-0.9c-0.3-1.3-0.8-2.5-1.5-3.6l1.9-3.1l-2.7-2.7l-3.1,1.9
+				c-1.1-0.7-2.3-1.2-3.6-1.5l-0.9-3.4h-3.8l-0.9,3.4c-1.3,0.3-2.5,0.8-3.5,1.5l-3-1.8L20,15.3l1.8,3c-0.7,1.1-1.2,2.3-1.5,3.6
+				l-3.2,1l0,3.8l3.2,0.7c0.3,1.3,0.8,2.5,1.5,3.6l-1.9,2.9l2.7,2.7l3.1-1.7c1.1,0.7,2.3,1.2,3.6,1.5l0.9,3.6l3.8,0l0.9-3.6
+				c1.3-0.3,2.5-0.8,3.6-1.5l3.1,1.8l2.7-2.7l-1.9-3.1c0.7-1.1,1.2-2.3,1.5-3.6L46.9,26.5z" />
+				<circle id="XMLID_177_" class="st3" cx="32" cy="24.6" r="5.4" />
+			</g>
+			<g id="XMLID_194_" class="st2">
+				<path id="XMLID_196_" class="st3" d="M45.6,41.1c0,0,0.7,5-1.9,7.6c-2.6,2.6-7.6,1.9-7.6,1.9s-0.7-5,1.9-7.6
+				C40.6,40.4,45.6,41.1,45.6,41.1z" />
+			</g>
+			<g id="XMLID_183_" class="st2">
+				<path id="XMLID_184_" class="st3"
+					d="M19.2,41.1c0,0-0.7,5,1.9,7.6c2.6,2.6,7.6,1.9,7.6,1.9s0.7-5-1.9-7.6S19.2,41.1,19.2,41.1z" />
+			</g>
+			<line id="XMLID_181_" class="st4" x1="32.4" y1="42.3" x2="32.4" y2="54.5" />
+			<line id="XMLID_186_" class="st4" x1="52.7" y1="13.1" x2="47.5" y2="16.1" />
+			<line id="XMLID_187_" class="st4" x1="55.7" y1="25" x2="49.7" y2="25" />
+			<line id="XMLID_189_" class="st4" x1="52.4" y1="36.8" x2="47.2" y2="33.8" />
+			<line id="XMLID_201_" class="st4" x1="11.3" y1="36.2" x2="16.5" y2="33.2" />
+			<line id="XMLID_202_" class="st4" x1="8.3" y1="24.3" x2="14.3" y2="24.3" />
+			<line id="XMLID_203_" class="st4" x1="11.6" y1="12.4" x2="16.8" y2="15.4" />
+		</g>
+		<g id="XMLID_195_" class="st0">
+			<path id="XMLID_199_" class="st4"
+				d="M34.9,24.5c2,3.2,4.3,7.4,4.3,9.6c0,4-3.2,7.2-7.2,7.2s-7.2-3.2-7.2-7.2c0-4,7.2-14,7.2-14" />
+			<path id="XMLID_200_" class="st4" d="M32,38.1c-2.4,0-4.3-1.9-4.3-4.3" />
+			<path id="XMLID_198_" class="st4" d="M32,17.1c8.2,0,14.9,6.7,14.9,14.9S40.2,46.9,32,46.9S17.1,40.2,17.1,32" />
+			<circle id="XMLID_192_" class="st5" cx="32" cy="32" r="21.4" />
+		</g>
+		<g id="XMLID_205_" class="st0">
+			<path id="XMLID_209_" class="st5" d="M40.9,13.4c7.2,3.5,12.1,11,11.7,19.6C52.1,44.4,42.4,53.2,31,52.6" />
+			<path id="XMLID_207_" class="st5" d="M21.8,50C15.3,46.3,11,39.1,11.4,31.1C11.9,19.7,21.6,10.9,33,11.4" />
+			<path id="XMLID_206_" class="st4" d="M38.3,30.5h-7.9l7.9-20.6c0,0,0,0,0,0l-15.4,22l-2.8,4h5.2h7.8l-7.7,18.2c0,0,0,0,0,0
+			l15.2-19.5l3.2-4.1H38.3z" />
+		</g>
+		<g id="XMLID_4_" class="st0">
+			<polyline id="XMLID_219_" class="st4" points="21.7,24.3 24,26.5 29.2,21.4 		" />
+			<path id="XMLID_1167_" class="st4" d="M37.1,26.7l-2.5,1.9l0.9,3.1c0.3,1.2-0.5,2.3-1.7,2.4l-3.2,0.1l-1.1,3
+			c-0.4,1.2-1.8,1.6-2.8,0.9L24,36.3l-2.6,1.8c-1,0.7-2.4,0.2-2.8-0.9l-1.1-3l-3.2-0.1c-1.2,0-2.1-1.2-1.7-2.4l0.9-3.1L11,26.7
+			c-1-0.7-1-2.2,0-2.9l2.5-1.9l-0.9-3.1c-0.3-1.2,0.5-2.3,1.7-2.4l3.2-0.1l1.1-3c0.4-1.1,1.8-1.6,2.8-0.9l2.6,1.8l2.6-1.8
+			c1-0.7,2.4-0.2,2.8,0.9l1.1,3l3.2,0.1c1.2,0,2.1,1.2,1.7,2.4l-0.9,3.1l2.5,1.9C38.1,24.5,38.1,26,37.1,26.7z" />
+			<path id="XMLID_214_" class="st4" d="M24,20c-2.9,0-5.2,2.3-5.2,5.2c0,2.9,2.3,5.2,5.2,5.2c2.9,0,5.2-2.3,5.2-5.2" />
+			<path id="XMLID_216_" class="st4" d="M24,40.4v5.8c0,4.1,3.4,7.5,7.5,7.5l0,0c4.1,0,7.5-3.4,7.5-7.5v-8.1c0-3.3,2.6-5.9,5.9-5.9h0
+			c3.3,0,5.9,2.6,5.9,5.9v15.6" />
+			<g id="XMLID_217_" class="st2">
+				<line id="XMLID_221_" class="st3" x1="46.2" y1="10.3" x2="46.2" y2="14.6" />
+				<line id="XMLID_218_" class="st3" x1="51.5" y1="12.5" x2="48.5" y2="15.5" />
+				<line id="XMLID_222_" class="st3" x1="53.7" y1="17.8" x2="49.4" y2="17.8" />
+				<line id="XMLID_224_" class="st3" x1="51.5" y1="23.1" x2="48.5" y2="20" />
+				<line id="XMLID_225_" class="st3" x1="46.2" y1="25.3" x2="46.2" y2="20.9" />
+				<line id="XMLID_226_" class="st3" x1="40.9" y1="23.1" x2="44" y2="20" />
+				<line id="XMLID_227_" class="st3" x1="38.7" y1="17.8" x2="43" y2="17.8" />
+				<line id="XMLID_229_" class="st3" x1="40.9" y1="12.5" x2="44" y2="15.5" />
+			</g>
+		</g>
+		<g id="XMLID_249_">
+			<g id="XMLID_241_">
+				<path id="XMLID_250_" class="st3"
+					d="M13.7,21c0,0,4.7-6.3,10.5-6.3S34.7,21,34.7,21s-4.7,6.3-10.5,6.3S13.7,21,13.7,21z" />
+			</g>
+			<g id="XMLID_240_">
+				<path id="XMLID_236_" class="st3" d="M49.5,44.6l3,3c0.5,0.5,1.4,0.5,1.9,0l0,0c0.5-0.5,0.5-1.4,0-1.9l-3-3" />
+				<path id="XMLID_235_" class="st3" d="M42.8,51.3l3,3c0.5,0.5,1.4,0.5,1.9,0l0,0c0.5-0.5,0.5-1.4,0-1.9l-3-3" />
+				<path id="XMLID_232_" class="st3" d="M51,36.5L36.5,51c-0.1,0.1-0.1,0.2,0,0.2l2,2c0.1,0.1,0.2,0.1,0.2,0l14.5-14.5
+				c0.1-0.1,0.1-0.2,0-0.2l-2-2C51.2,36.4,51.1,36.4,51,36.5z" />
+				<path id="XMLID_233_" class="st3" d="M49.5,36l-4-4c-3.7-3.7-9.8-3.7-13.5,0l0,0c-3.7,3.7-3.7,9.8,0,13.5l4,4" />
+				<line id="XMLID_238_" class="st3" x1="38.4" y1="45.1" x2="33.4" y2="40" />
+				<line id="XMLID_237_" class="st3" x1="41.8" y1="41.7" x2="34.4" y2="34.4" />
+				<line id="XMLID_239_" class="st3" x1="45.2" y1="38.4" x2="40.1" y2="33.3" />
+			</g>
+			<path id="XMLID_244_" class="st3" d="M29.3,12.7C27,10.4,24,9.3,21,9.3s-6,1.1-8.3,3.4S9.2,18,9.2,21c0,3,1.1,6,3.4,8.3
+			c2.3,2.3,5.3,3.4,8.3,3.4s6.1-1.2,8.4-3.5l1.6,1.6" />
+			<line id="XMLID_242_" class="st3" x1="14.7" y1="21" x2="33.4" y2="21" />
+			<line id="XMLID_245_" class="st3" x1="20.5" y1="21" x2="25.8" y2="15.2" />
+			<line id="XMLID_247_" class="st3" x1="20.1" y1="21" x2="25.4" y2="27.3" />
+			<line id="XMLID_248_" class="st3" x1="26.7" y1="21" x2="30.6" y2="16.7" />
+			<line id="XMLID_234_" class="st3" x1="26.3" y1="21" x2="30" y2="25.4" />
+		</g>
+		<g id="XMLID_246_" class="st0">
+			<path id="XMLID_274_" class="st4"
+				d="M33.8,34.1c0,1.2-1,2.2-2.2,2.2c-1.2,0-2.2-1-2.2-2.2s2.2-4.3,2.2-4.3S33.8,32.9,33.8,34.1z" />
+			<circle id="XMLID_252_" class="st4" cx="31.6" cy="33.1" r="7.4" />
+			<path id="XMLID_269_" class="st4" d="M46.7,43.8V22.4c1.3-0.3,2.2-1.4,2.2-2.8c0-1.4-0.9-2.5-2.2-2.8v-4c0-0.8-0.6-1.4-1.4-1.4
+			H18.8c-0.8,0-1.4,0.6-1.4,1.4v4c-1.3,0.3-2.2,1.4-2.2,2.8c0,1.4,0.9,2.5,2.2,2.8v21.3c-1.3,0.3-2.2,1.4-2.2,2.8s0.9,2.5,2.2,2.8
+			v3.9c0,0.8,0.6,1.4,1.4,1.4h26.5c0.8,0,1.4-0.6,1.4-1.4v-3.9c1.3-0.3,2.2-1.4,2.2-2.8S47.9,44.1,46.7,43.8z" />
+			<line id="XMLID_260_" class="st4" x1="17.2" y1="22.6" x2="29" y2="22.6" />
+			<line id="XMLID_243_" class="st4" x1="36.9" y1="22.6" x2="31.3" y2="22.6" />
+			<line id="XMLID_263_" class="st4" x1="46.2" y1="43.6" x2="36.9" y2="43.6" />
+			<line id="XMLID_265_" class="st4" x1="32" y1="43.6" x2="35.7" y2="43.6" />
+			<line id="XMLID_271_" class="st4" x1="19" y1="9.3" x2="23.9" y2="9.3" />
+		</g>
+		<g id="XMLID_277_" class="st0">
+			<g id="XMLID_281_" class="st2">
+				<path id="XMLID_282_" class="st6" d="M18.8,22.7c0-7.5,6.1-13.5,13.5-13.5c7.5,0,13.5,6.1,13.5,13.5" />
+			</g>
+			<polyline id="XMLID_279_" class="st4" points="32.6,12.6 30.2,18.7 34.6,18.7 31.6,24.8 		" />
+			<g id="XMLID_259_" class="st2">
+				<path id="XMLID_255_" class="st3" d="M18.4,27.5v-2.8c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v2.8" />
+				<path id="XMLID_258_" class="st3" d="M42.4,27.5v-2.8c0-0.1,0.1-0.2,0.2-0.2h2.9c0.1,0,0.2,0.1,0.2,0.2v2.8" />
+				<line id="XMLID_257_" class="st3" x1="50.9" y1="34.2" x2="50.9" y2="50" />
+				<line id="XMLID_256_" class="st3" x1="13.1" y1="50" x2="13.1" y2="34.2" />
+				<path id="XMLID_272_" class="st3" d="M52,32.4H12c-0.1,0-0.2-0.1-0.2-0.2v-4c0-0.1,0.1-0.2,0.2-0.2h40c0.1,0,0.2,0.1,0.2,0.2v4
+				C52.2,32.3,52.1,32.4,52,32.4z" />
+				<path id="XMLID_254_" class="st3" d="M44.8,50.5H52c0.1,0,0.2,0.1,0.2,0.2v3.9c0,0.1-0.1,0.2-0.2,0.2H12c-0.1,0-0.2-0.1-0.2-0.2
+				v-3.9c0-0.1,0.1-0.2,0.2-0.2h14.5" />
+			</g>
+			<line id="XMLID_261_" class="st4" x1="39.7" y1="41.6" x2="45.8" y2="41.6" />
+			<g id="XMLID_273_" class="st2">
+				<line id="XMLID_264_" class="st3" x1="18.7" y1="41.6" x2="24.8" y2="41.6" />
+				<line id="XMLID_270_" class="st3" x1="21.8" y1="44.6" x2="21.8" y2="38.5" />
+			</g>
+		</g>
+		<g id="XMLID_275_" class="st0">
+			<path id="XMLID_284_" class="st4" d="M39.3,19.8c0-2.4-1.9-4.3-4.3-4.3c-1.2,0-2.3,0.5-3.1,1.3c-0.8-0.8-1.9-1.3-3.1-1.3
+			c-2.4,0-4.3,1.9-4.3,4.3c0,1.2,0.5,2.2,1.2,3l6.2,6.1l6.3-6.3c0.1-0.1,0.2-0.3,0.2-0.3C39,21.6,39.3,20.7,39.3,19.8z" />
+			<path id="XMLID_327_" class="st4" d="M48.8,54.8V48c0,0,0-0.1-0.1-0.1h-14c0,0-0.1,0-0.1,0.1v6.8" />
+			<path id="XMLID_326_" class="st4"
+				d="M37,47.9l0-8.8c0.1-0.5,0.4-1.3,0.8-1.7l5.3-5.7c1.3-1.7,4,0.1,2.6,1.6l-4.3,5.9l2.1,0
+			l5.1-5.5c0,0,0.3-3.3,0.4-3.8L46.6,24c-0.4-1-0.4-2.2-0.1-3.2c0.3-0.8,0.6-1.5,1-1.6l4.2,10.5c0.2,0.4,0.1,6,0.1,6L46,47.9" />
+			<path id="XMLID_325_" class="st4" d="M15.2,54.8V48c0,0,0-0.1,0.1-0.1h14c0,0,0.1,0,0.1,0.1v6.8" />
+			<path id="XMLID_324_" class="st4"
+				d="M27,47.9l0-8.8c-0.1-0.5-0.4-1.3-0.8-1.7l-5.3-5.7c-1.3-1.7-4,0.1-2.6,1.6l4.3,5.9l-2.1,0
+			l-5.1-5.5c0,0-0.3-3.3-0.4-3.8l2.5-6.1c0.4-1,0.4-2.2,0.1-3.2c-0.3-0.8-0.6-1.5-1-1.6l-4.2,10.5c-0.2,0.4-0.1,6-0.1,6L18,47.9" />
+			<g id="XMLID_612_" class="st2">
+				<circle id="XMLID_619_" class="st3" cx="32.1" cy="21.1" r="11.9" />
+			</g>
+		</g>
+		<g id="XMLID_307_" class="st0">
+			<circle id="XMLID_314_" class="st4" cx="32" cy="32" r="15.5" />
+			<path id="XMLID_318_" class="st4" d="M24.7,34c-0.1-0.5-0.2-1-0.2-1.5c0-0.5,0.1-1,0.2-1.5c0.1-0.5,0.2-1,0.4-1.4
+			c0.2-0.4,0.4-0.9,0.7-1.3c0.3-0.4,0.6-0.8,0.9-1.1c0.3-0.3,0.7-0.6,1.1-0.9c0.4-0.3,0.8-0.5,1.3-0.7c0.4-0.2,0.9-0.3,1.4-0.4
+			c0.5-0.1,1-0.2,1.5-0.2" />
+			<path id="XMLID_308_" class="st4" d="M27.9,38.7c-0.4-0.3-0.8-0.6-1.1-0.9c-0.3-0.3-0.6-0.7-0.9-1.1" />
+			<path id="XMLID_288_" class="st4" d="M33.6,39.8c-0.5,0.1-1,0.2-1.5,0.2c-0.5,0-1-0.1-1.5-0.2" />
+			<path id="XMLID_289_" class="st4" d="M38.3,36.6c-0.3,0.4-0.6,0.8-0.9,1.1c-0.3,0.3-0.7,0.6-1.1,0.9" />
+			<polyline id="XMLID_311_" class="st4" points="29.9,22.3 32.6,25 29.9,27.7 		" />
+			<line id="XMLID_286_" class="st4" x1="32.1" y1="9" x2="32.1" y2="14" />
+			<line id="XMLID_285_" class="st4" x1="43.6" y1="12.1" x2="41.1" y2="16.4" />
+			<line id="XMLID_287_" class="st4" x1="52" y1="20.5" x2="47.6" y2="23" />
+			<line id="XMLID_290_" class="st4" x1="55" y1="32" x2="50" y2="32" />
+			<line id="XMLID_292_" class="st4" x1="51.9" y1="43.5" x2="47.6" y2="41" />
+			<line id="XMLID_295_" class="st4" x1="43.5" y1="51.9" x2="41" y2="47.6" />
+			<line id="XMLID_297_" class="st4" x1="32" y1="55" x2="32" y2="50" />
+			<line id="XMLID_299_" class="st4" x1="20.5" y1="51.9" x2="23" y2="47.6" />
+			<line id="XMLID_301_" class="st4" x1="12.1" y1="43.5" x2="16.4" y2="41" />
+			<line id="XMLID_303_" class="st4" x1="9" y1="32" x2="14" y2="32" />
+			<line id="XMLID_305_" class="st4" x1="12.1" y1="20.5" x2="16.4" y2="23" />
+			<line id="XMLID_306_" class="st4" x1="20.5" y1="12.1" x2="23" y2="16.4" />
+		</g>
+		<g id="XMLID_304_" class="st0">
+			<g id="XMLID_146_" class="st2">
+				<path id="XMLID_148_" class="st3" d="M46.3,32.5l0-3.1l-4.9-0.7c-0.2-1-0.6-2-1.2-2.9l2.9-3.9L41,19.7l-3.9,2.9
+				c-0.9-0.5-1.8-1-2.9-1.2l-0.7-4.9h-3.1l-0.7,4.9c-1,0.2-2,0.6-2.9,1.2L23,19.7l-2.2,2.2l2.9,3.9c-0.5,0.9-1,1.8-1.2,2.9l-4.9,0.7
+				l0,3.1l4.9,0.7c0.2,1,0.6,2,1.2,2.9L20.8,40l2.2,2.2l3.9-2.9c0.9,0.5,1.8,1,2.9,1.2l0.7,4.9l3.1,0l0.7-4.9c1-0.2,2-0.6,2.9-1.2
+				l3.9,2.9l2.2-2.2l-2.9-3.9c0.5-0.9,1-1.8,1.2-2.9L46.3,32.5z" />
+				<path id="XMLID_291_" class="st3" d="M32,26.6c2.4,0,4.4,2,4.4,4.4s-2,4.4-4.4,4.4c-2.4,0-4.4-2-4.4-4.4" />
+			</g>
+			<g id="XMLID_300_" class="st2">
+				<path id="XMLID_317_" class="st3"
+					d="M16.4,17.1c1.5-1.7,3.3-3.2,5.5-4.4c5-2.8,10.6-3.3,15.7-1.9c5.1,1.4,9.6,4.8,12.4,9.8" />
+				<path id="XMLID_316_" class="st3"
+					d="M26.3,50.6c-5.1-1.4-9.6-4.8-12.4-9.8c-2.8-5-3.3-10.6-1.9-15.7c0.3-1.1,0.7-2.2,1.2-3.2" />
+				<path id="XMLID_315_" class="st3"
+					d="M52.2,26.9c0.6,3.2,0.4,6.4-0.4,9.4c-1.4,5.1-4.8,9.6-9.8,12.4c-3.1,1.7-6.5,2.6-9.8,2.6" />
+				<polyline id="XMLID_313_" class="st3" points="52.7,21.4 51.3,24.2 48.4,22.8 			" />
+				<polyline id="XMLID_312_" class="st3" points="30.8,53.9 27.9,51.2 30.8,48.5 			" />
+				<polyline id="XMLID_310_" class="st3" points="11.4,19.9 14.7,18.7 16.4,21.9 			" />
+			</g>
+		</g>
+		<g id="XMLID_341_" class="st0">
+			<path id="XMLID_328_" class="st4" d="M17.7,18.3v7.2c0,0.1,0,0.1,0.1,0.1l2,1.3l0.6,13.2" />
+			<path id="XMLID_319_" class="st4"
+				d="M28.4,52.9H43c0.1,0,0.3-0.1,0.3-0.2L44.4,27l2-1.3c0.1,0,0.1-0.1,0.1-0.1v-7.2" />
+			<path id="XMLID_329_" class="st4" d="M48,14.6v1.6c0,0.1-0.1,0.2-0.2,0.2H23.5" />
+			<path id="XMLID_330_" class="st4" d="M45.6,9.6H19c-1.4,0-2.5,1.1-2.5,2.5v0.3v0.8v3c0,0.1,0.1,0.2,0.2,0.2h4.7v-3.2h26.8v-1.1
+			C48.1,10.7,47,9.6,45.6,9.6z" />
+			<circle id="XMLID_1541_" class="st4" cx="21.3" cy="48.2" r="6.2" />
+			<circle id="XMLID_320_" class="st4" cx="21.3" cy="48.2" r="2.2" />
+			<path id="XMLID_339_" class="st4" d="M39,30.7c0,1.8-0.7,3.5-1.9,4.6c-1.2,1.2-2.8,1.9-4.6,1.9c-1.8,0-3.5-0.7-4.6-1.9
+			c-1.2-1.2-1.9-2.8-1.9-4.6c0-1.8,0.7-3.5,1.9-4.6c1.2-1.2,2.8-1.9,4.6-1.9" />
+			<line id="XMLID_336_" class="st4" x1="46.1" y1="52.9" x2="55.5" y2="52.9" />
+			<line id="XMLID_332_" class="st4" x1="8.5" y1="52.9" x2="13.2" y2="52.9" />
+			<polyline id="XMLID_340_" class="st4" points="31.3,21.7 33.7,24.2 31.3,26.6 		" />
+		</g>
+		<g id="XMLID_774_" class="st0">
+			<path id="XMLID_347_" class="st4" d="M26.5,42.7c-0.5-3.2-0.7-6.8-0.7-10.7c0-12.6,2.8-22.8,6.2-22.8c3.4,0,6.2,10.2,6.2,22.8
+			S35.4,54.8,32,54.8c-1.5,0-2.9-1.9-3.9-5.1" />
+			<path id="XMLID_349_" class="st4" d="M24.3,22.7c3.1,0.8,6.6,2.1,10.2,3.6c11.6,5,19.8,11.6,18.4,14.8c-1.4,3.2-11.8,1.6-23.4-3.4
+			c-5-2.2-9.3-4.6-12.6-7" />
+			<path id="XMLID_345_" class="st5" d="M11.3,25c-0.4-0.8-0.5-1.5-0.2-2.1c0.9-2.2,6.2-2.1,13.2-0.3" />
+			<path id="XMLID_344_" class="st4" d="M42.1,22.1c-3.7,0.8-8,2.2-12.5,4.2C18,31.3,9.7,37.9,11.1,41.1c1.4,3.2,11.8,1.6,23.4-3.4
+			c11.6-5,19.8-11.6,18.4-14.8c-0.4-0.9-1.6-1.5-3.4-1.6" />
+			<circle id="XMLID_531_" class="st4" cx="32" cy="32" r="3" />
+			<circle id="XMLID_757_" class="st4" cx="14" cy="28.5" r="1.5" />
+			<circle id="XMLID_535_" class="st4" cx="45.2" cy="21.3" r="1.5" />
+			<circle id="XMLID_756_" class="st4" cx="27.3" cy="45.7" r="1.5" />
+			<line id="XMLID_764_" class="st4" x1="8.5" y1="32.1" x2="13.1" y2="32.1" />
+			<line id="XMLID_533_" class="st4" x1="22" y1="49.7" x2="24.3" y2="45.7" />
+			<line id="XMLID_765_" class="st4" x1="43.2" y1="48.7" x2="40.9" y2="44.8" />
+			<line id="XMLID_766_" class="st4" x1="55.5" y1="31.9" x2="50.9" y2="32.1" />
+			<line id="XMLID_767_" class="st4" x1="41.5" y1="13.8" x2="39.4" y2="17.9" />
+			<line id="XMLID_768_" class="st4" x1="20.9" y1="14.8" x2="23.3" y2="18.6" />
+		</g>
+		<g id="XMLID_372_" class="st0">
+			<g id="XMLID_369_" class="st2">
+				<g id="XMLID_362_">
+					<path id="XMLID_343_" class="st3" d="M31,37.5c0.9-5.7,1.5-16.8,0.9-19.8c0-0.1,0.1-0.2,0.2-0.2h15.6c0.1,0,0.2,0.1,0.2,0.2
+					c-0.5,3.6,0.1,14.4,0.9,19.6" />
+					<path id="XMLID_355_" class="st3" d="M11.2,50.6V39.7c0-0.1,0.1-0.2,0.2-0.2h40.8c0.1,0,0.2,0.1,0.2,0.2v10.9" />
+					<line id="XMLID_350_" class="st3" x1="32.8" y1="22.5" x2="47.4" y2="22.5" />
+					<line id="XMLID_346_" class="st3" x1="31.8" y1="26" x2="47.9" y2="26" />
+					<polyline id="XMLID_351_" class="st3" points="15.5,43.8 15.5,46.3 23.9,46.3 				" />
+					<polyline id="XMLID_352_" class="st3" points="27.2,43.8 27.2,46.3 35.7,46.3 				" />
+					<polyline id="XMLID_353_" class="st3" points="39,43.8 39,46.3 47.4,46.3 				" />
+					<polyline id="XMLID_354_" class="st3" points="54.8,54 54.8,50.6 9.2,50.6 9.2,54 				" />
+					<polyline id="XMLID_360_" class="st3" points="22.1,37.5 22.9,23.3 25.7,23.3 26.5,37.3 				" />
+					<polyline id="XMLID_358_" class="st3" points="14.5,37.5 15.3,23.3 18.1,23.3 19,37.3 				" />
+				</g>
+				<line id="XMLID_367_" class="st3" x1="6.7" y1="54" x2="32.8" y2="54" />
+				<line id="XMLID_365_" class="st3" x1="57.3" y1="54" x2="45.8" y2="54" />
+			</g>
+			<path id="XMLID_370_" class="st4" d="M44.1,15.8v-1.6c0-2.3-1.9-4.3-4.3-4.3H9.2" />
+			<path id="XMLID_371_" class="st4" d="M33.8,15.8v-0.4c0-1.1-0.9-1.9-1.9-1.9h-9.1" />
+			<line id="XMLID_373_" class="st4" x1="11.8" y1="13.5" x2="20" y2="13.5" />
+		</g>
+		<g id="XMLID_383_" class="st0">
+			<g id="XMLID_376_" class="st2">
+				<path id="XMLID_382_" class="st3"
+					d="M15.3,16.1c1.6-1.9,3.6-3.5,5.8-4.7c5.3-3,11.4-3.5,16.8-2c5.4,1.5,10.3,5.1,13.3,10.5" />
+				<path id="XMLID_381_" class="st3"
+					d="M25.9,51.9c-5.4-1.5-10.3-5.1-13.3-10.5c-3-5.3-3.5-11.3-2-16.8c0.3-1.2,0.8-2.3,1.3-3.5" />
+				<path id="XMLID_380_" class="st3"
+					d="M53.6,26.5c0.6,3.4,0.5,6.8-0.5,10.1C51.6,42,48,46.9,42.7,49.9c-3.3,1.9-6.9,2.8-10.5,2.8" />
+				<polyline id="XMLID_379_" class="st3" points="54.2,20.6 52.6,23.6 49.5,22.1 			" />
+				<polyline id="XMLID_378_" class="st3" points="30.7,55.5 27.7,52.6 30.7,49.7 			" />
+				<polyline id="XMLID_377_" class="st3" points="10,19.1 13.5,17.8 15.3,21.2 			" />
+			</g>
+			<g id="XMLID_375_" class="st2">
+				<path id="XMLID_384_" class="st3" d="M29.9,34.6L24.5,44c2.2,1.3,4.8,2,7.5,2c2.7,0,5.3-0.7,7.5-2l-5.4-9.4" />
+				<path id="XMLID_385_" class="st3" d="M29.9,27.4L24.5,18C20,20.6,17,25.4,17,31l10.9,0" />
+				<path id="XMLID_388_" class="st3" d="M36.1,31L47,31c0,0,0,0,0,0c0-5.6-3-10.4-7.5-13l-5.5,9.4" />
+				<circle id="XMLID_944_" class="st3" cx="32" cy="31" r="2.3" />
+			</g>
+		</g>
+		<g id="XMLID_386_" class="st0">
+			<g id="XMLID_393_" class="st2">
+				<g id="XMLID_396_">
+					<path id="XMLID_397_" class="st3" d="M38.8,26.4c0,0,0.7,4.9-1.9,7.5c-2.6,2.6-7.5,1.9-7.5,1.9s-0.7-4.9,1.9-7.5
+					S38.8,26.4,38.8,26.4z" />
+				</g>
+				<g id="XMLID_394_">
+					<path id="XMLID_395_" class="st3" d="M27.6,34.1c-1.1-1.2-2.2-3-2.2-5c0-3.7,4-6.6,4-6.6s1.7,1.3,2.9,3.2" />
+				</g>
+			</g>
+			<path id="XMLID_483_" class="st4" d="M43.1,45.1l-11,7.5c-0.1,0-0.1,0-0.2,0l-11-7.5c-5.7-3.9-9.1-10.4-9.1-17.3V11.9
+			c0-0.3,0.3-0.6,0.6-0.6h39.2c0.3,0,0.6,0.3,0.6,0.6v15.9C52.2,34.8,48.8,41.2,43.1,45.1z" />
+			<circle id="XMLID_389_" class="st4" cx="32.1" cy="29.2" r="11.4" />
+			<g id="XMLID_410_" class="st2">
+				<line id="XMLID_392_" class="st3" x1="19.9" y1="14.4" x2="22" y2="14.4" />
+				<line id="XMLID_390_" class="st3" x1="24.3" y1="14.4" x2="26.4" y2="14.4" />
+				<line id="XMLID_398_" class="st3" x1="28.7" y1="14.4" x2="30.8" y2="14.4" />
+				<line id="XMLID_402_" class="st3" x1="33.2" y1="14.4" x2="35.3" y2="14.4" />
+				<line id="XMLID_405_" class="st3" x1="37.6" y1="14.4" x2="39.7" y2="14.4" />
+				<line id="XMLID_408_" class="st3" x1="42" y1="14.4" x2="44.1" y2="14.4" />
+			</g>
+		</g>
+		<g id="XMLID_415_" class="st0">
+			<path id="XMLID_419_" class="st4" d="M33.1,37.8c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3c0-1.3,2.3-4.5,2.3-4.5
+			S33.1,36.5,33.1,37.8z" />
+			<circle id="XMLID_418_" class="st4" cx="30.8" cy="36.7" r="7.7" />
+			<path id="XMLID_829_" class="st4" d="M42.9,30.9H44c1.3,0,2.3,1,2.3,2.3v7.6c0,1.3,1,2.3,2.3,2.3l0,0c1.3,0,2.3-1,2.3-2.3V19.7
+			c0-0.9-0.5-2.1-1.2-2.8l-4.4-4" />
+			<path id="XMLID_827_" class="st4" d="M38.6,23.6H23.1c-0.1,0-0.2-0.1-0.2-0.2V13c0-0.1,0.1-0.2,0.2-0.2h15.5
+			c0.1,0,0.2,0.1,0.2,0.2v10.4C38.7,23.5,38.7,23.6,38.6,23.6z" />
+			<polyline id="XMLID_830_" class="st4" points="48.1,15.5 48.1,21.9 50.9,25.4 		" />
+			<path id="XMLID_414_" class="st4" d="M17.3,54.1v-3.5c0-0.1,0.1-0.2,0.2-0.2h27.1c0.1,0,0.2,0.1,0.2,0.2v3.5" />
+			<path id="XMLID_407_" class="st4" d="M42.2,48.6V10.1c0-0.1-0.1-0.2-0.2-0.2H19.6c-0.1,0-0.2,0.1-0.2,0.2v38.6" />
+			<line id="XMLID_412_" class="st4" x1="26.4" y1="18.9" x2="26.4" y2="16.1" />
+			<line id="XMLID_403_" class="st4" x1="30.4" y1="18.9" x2="30.4" y2="16.1" />
+			<line id="XMLID_413_" class="st4" x1="34.3" y1="18.9" x2="34.3" y2="16.1" />
+			<line id="XMLID_416_" class="st4" x1="11.1" y1="54.1" x2="52.9" y2="54.1" />
+		</g>
+		<g id="XMLID_435_" class="st0">
+			<g id="XMLID_430_" class="st2">
+				<path id="XMLID_423_" class="st3" d="M17.4,14.7v-2.1c0-0.6,0.5-1,1-1h5.1c0.6,0,1,0.5,1,1v2.1" />
+				<line id="XMLID_425_" class="st3" x1="12.7" y1="48" x2="12.7" y2="19.3" />
+				<line id="XMLID_420_" class="st3" x1="29.3" y1="19.3" x2="29.3" y2="48" />
+				<path id="XMLID_427_" class="st3"
+					d="M19.8,19.1h10v-1.9c0-1.3-1.1-2.4-2.4-2.4H14.6c-1.3,0-2.4,1.1-2.4,2.4v1.9h3.7" />
+				<path id="XMLID_424_" class="st3"
+					d="M21.9,47.8h-9.7V50c0,1.3,1.1,2.4,2.4,2.4h12.9c1.3,0,2.4-1.1,2.4-2.4v-2.2h-4.6" />
+				<line id="XMLID_428_" class="st3" x1="15.7" y1="34.6" x2="15.7" y2="45.2" />
+				<line id="XMLID_421_" class="st3" x1="19.1" y1="34.6" x2="19.1" y2="45.2" />
+				<line id="XMLID_429_" class="st3" x1="22.6" y1="34.6" x2="22.6" y2="45.2" />
+				<line id="XMLID_444_" class="st3" x1="26" y1="34.6" x2="26" y2="45.2" />
+				<line id="XMLID_448_" class="st3" x1="15.7" y1="31.6" x2="15.7" y2="33.2" />
+				<line id="XMLID_447_" class="st3" x1="19.1" y1="31.6" x2="19.1" y2="33.2" />
+				<line id="XMLID_446_" class="st3" x1="22.6" y1="31.6" x2="22.6" y2="33.2" />
+				<line id="XMLID_445_" class="st3" x1="26" y1="31.6" x2="26" y2="33.2" />
+				<line id="XMLID_452_" class="st3" x1="15.7" y1="28.6" x2="15.7" y2="30.2" />
+				<line id="XMLID_451_" class="st3" x1="19.1" y1="28.6" x2="19.1" y2="30.2" />
+				<line id="XMLID_450_" class="st3" x1="22.6" y1="28.6" x2="22.6" y2="30.2" />
+				<line id="XMLID_449_" class="st3" x1="26" y1="28.6" x2="26" y2="30.2" />
+				<line id="XMLID_456_" class="st3" x1="15.7" y1="25.6" x2="15.7" y2="27.2" />
+				<line id="XMLID_455_" class="st3" x1="19.1" y1="25.6" x2="19.1" y2="27.2" />
+				<line id="XMLID_454_" class="st3" x1="22.6" y1="25.6" x2="22.6" y2="27.2" />
+				<line id="XMLID_453_" class="st3" x1="26" y1="25.6" x2="26" y2="27.2" />
+				<line id="XMLID_460_" class="st3" x1="15.7" y1="22.6" x2="15.7" y2="24.2" />
+				<line id="XMLID_459_" class="st3" x1="19.1" y1="22.6" x2="19.1" y2="24.2" />
+				<line id="XMLID_458_" class="st3" x1="22.6" y1="22.6" x2="22.6" y2="24.2" />
+				<line id="XMLID_457_" class="st3" x1="26" y1="22.6" x2="26" y2="24.2" />
+			</g>
+			<g id="XMLID_431_" class="st2">
+				<path id="XMLID_477_" class="st3" d="M39.4,14.7v-2.1c0-0.6,0.5-1,1-1h5.1c0.6,0,1,0.5,1,1v2.1" />
+				<line id="XMLID_476_" class="st3" x1="34.7" y1="48" x2="34.7" y2="19.3" />
+				<line id="XMLID_475_" class="st3" x1="51.3" y1="19.3" x2="51.3" y2="48" />
+				<path id="XMLID_474_" class="st3"
+					d="M41.8,19.1h10v-1.9c0-1.3-1.1-2.4-2.4-2.4H36.6c-1.3,0-2.4,1.1-2.4,2.4v1.9h3.7" />
+				<path id="XMLID_473_" class="st3"
+					d="M43.9,47.8h-9.7V50c0,1.3,1.1,2.4,2.4,2.4h12.9c1.3,0,2.4-1.1,2.4-2.4v-2.2h-4.6" />
+				<line id="XMLID_472_" class="st3" x1="37.7" y1="23.4" x2="37.7" y2="45.2" />
+				<line id="XMLID_471_" class="st3" x1="41.1" y1="23.4" x2="41.1" y2="45.2" />
+				<line id="XMLID_470_" class="st3" x1="44.6" y1="23.4" x2="44.6" y2="45.2" />
+				<line id="XMLID_469_" class="st3" x1="48" y1="23.4" x2="48" y2="45.2" />
+			</g>
+		</g>
+	</g>
+	<g id="Icon_text" class="st0">
+		<g id="XMLID_40_" class="st2">
+			<text id="XMLID_363_" transform="matrix(1 0 0 1 -162.3837 -77.8332)">
+				<tspan x="0" y="0" class="st7 st8 st9">GREEN</tspan>
+				<tspan x="-2.2" y="7" class="st7 st8 st9">ENERGY</tspan>
+			</text>
+		</g>
+		<g id="XMLID_55_" class="st2">
+			<text id="XMLID_364_" transform="matrix(1 0 0 1 -73.5245 -77.8334)">
+				<tspan x="0" y="0" class="st7 st8 st9">ENERGY</tspan>
+				<tspan x="0.9" y="7" class="st7 st8 st9">SAVING</tspan>
+			</text>
+		</g>
+		<g id="XMLID_70_" class="st2">
+			<text id="XMLID_366_" transform="matrix(1 0 0 1 12.6282 -77.8335)">
+				<tspan x="0" y="0" class="st7 st8 st9">POWER OF</tspan>
+				<tspan x="9.4" y="7" class="st7 st8 st9">WIND</tspan>
+			</text>
+		</g>
+		<g id="XMLID_101_" class="st2">
+			<text id="XMLID_368_" transform="matrix(1 0 0 1 108.7197 -77.8335)">
+				<tspan x="0" y="0" class="st7 st8 st9">PETROL</tspan>
+				<tspan x="4.1" y="7" class="st7 st8 st9">TANK</tspan>
+			</text>
+		</g>
+		<g id="XMLID_107_" class="st2">
+			<text id="XMLID_391_" transform="matrix(1 0 0 1 198.0258 -77.8335)" class="st7 st8 st9">ECO BAG</text>
+		</g>
+		<g id="XMLID_133_" class="st2">
+			<text id="XMLID_399_" transform="matrix(1 0 0 1 -162.2645 18.8335)">
+				<tspan x="0" y="0" class="st7 st8 st9">SOLAR</tspan>
+				<tspan x="0.2" y="7" class="st7 st8 st9">PANEL</tspan>
+			</text>
+		</g>
+		<g id="XMLID_163_" class="st2">
+			<text id="XMLID_400_" transform="matrix(1 0 0 1 -64.9438 18.8336)">
+				<tspan x="0" y="0" class="st7 st8 st9">OIL</tspan>
+				<tspan x="-4.7" y="7" class="st7 st8 st9">PUMP</tspan>
+			</text>
+		</g>
+		<g id="XMLID_175_" class="st2">
+			<text id="XMLID_401_" transform="matrix(1 0 0 1 18.5854 18.8336)">
+				<tspan x="0" y="0" class="st7 st8 st9">POWER</tspan>
+				<tspan x="7.9" y="7" class="st7 st8 st9">ON</tspan>
+			</text>
+		</g>
+		<g id="XMLID_185_" class="st2">
+			<text id="XMLID_404_" transform="matrix(1 0 0 1 103.3119 18.8336)">
+				<tspan x="0" y="0" class="st7 st8 st9">POWER OF</tspan>
+				<tspan x="4.6" y="7" class="st7 st8 st9">NATURE</tspan>
+			</text>
+		</g>
+		<g id="XMLID_204_" class="st2">
+			<text id="XMLID_406_" transform="matrix(1 0 0 1 201.1093 18.8335)">
+				<tspan x="0" y="0" class="st7 st8 st9">WATER</tspan>
+				<tspan x="-1.6" y="7" class="st7 st8 st9">ENERGY</tspan>
+			</text>
+		</g>
+		<g id="XMLID_212_" class="st2">
+			<text id="XMLID_409_" transform="matrix(1 0 0 1 -167.0934 114.6673)">
+				<tspan x="0" y="0" class="st7 st8 st9">ELECTRIC</tspan>
+				<tspan x="3.9" y="7" class="st7 st8 st9">POWER</tspan>
+			</text>
+		</g>
+		<g id="XMLID_230_" class="st2">
+			<text id="XMLID_422_" transform="matrix(1 0 0 1 -75.6174 114.6673)">
+				<tspan x="0" y="0" class="st7 st8 st9">BIOMASS</tspan>
+				<tspan x="2.1" y="7" class="st7 st8 st9">ENERGY</tspan>
+			</text>
+		</g>
+		<g id="XMLID_251_" class="st2">
+			<text id="XMLID_426_" transform="matrix(1 0 0 1 24.2584 114.6676)">
+				<tspan x="0" y="0" class="st7 st8 st9">ECO</tspan>
+				<tspan x="-7" y="7" class="st7 st8 st9">ENERGY</tspan>
+			</text>
+		</g>
+		<g id="XMLID_253_" class="st2">
+			<text id="XMLID_433_" transform="matrix(1 0 0 1 117.3256 114.6673)">
+				<tspan x="0" y="0" class="st7 st8 st9">OIL</tspan>
+				<tspan x="-8.4" y="7" class="st7 st8 st9">BARREL</tspan>
+			</text>
+		</g>
+		<g id="XMLID_283_" class="st2">
+			<text id="XMLID_466_" transform="matrix(1 0 0 1 198.0874 114.6673)" class="st7 st8 st9">BATTERY</text>
+		</g>
+		<g id="XMLID_278_" class="st2">
+			<text id="XMLID_467_" transform="matrix(1 0 0 1 -167.5461 210.4166)">
+				<tspan x="0" y="0" class="st7 st8 st9">SAVE THE</tspan>
+				<tspan x="5.3" y="7" class="st7 st8 st9">EARTH</tspan>
+			</text>
+		</g>
+		<g id="XMLID_309_" class="st2">
+			<text id="XMLID_468_" transform="matrix(1 0 0 1 -81.3622 210.4163)">
+				<tspan x="0" y="0" class="st7 st8 st9">RENEWABLE</tspan>
+				<tspan x="8.1" y="7" class="st7 st8 st9">ENERGY</tspan>
+			</text>
+		</g>
+		<g id="XMLID_147_" class="st2">
+			<text id="XMLID_478_" transform="matrix(1 0 0 1 108.4756 210.4166)">
+				<tspan x="0" y="0" class="st7 st8 st9">ENERGY</tspan>
+				<tspan x="-12.8" y="7" class="st7 st8 st9">DEVELOPMENT</tspan>
+			</text>
+		</g>
+		<g id="XMLID_342_" class="st2">
+			<text id="XMLID_479_" transform="matrix(1 0 0 1 11.2592 209.5666)">
+				<tspan x="0" y="0" class="st7 st8 st9">RECYCLING</tspan>
+				<tspan x="13.4" y="7" class="st7 st8 st9"> BIN</tspan>
+			</text>
+		</g>
+		<g id="XMLID_348_" class="st2">
+			<text id="XMLID_480_" transform="matrix(1 0 0 1 202.9932 210.4163)">
+				<tspan x="0" y="0" class="st7 st8 st9">ATOM</tspan>
+				<tspan x="-3.8" y="7" class="st7 st8 st9">ENERGY</tspan>
+			</text>
+		</g>
+		<g id="XMLID_374_" class="st2">
+			<text id="XMLID_481_" transform="matrix(1 0 0 1 -163.6106 305.1656)">
+				<tspan x="0" y="0" class="st7 st8 st9">POWER</tspan>
+				<tspan x="1.7" y="7" class="st7 st8 st9">PLANT</tspan>
+			</text>
+		</g>
+		<g id="XMLID_387_" class="st2">
+			<text id="XMLID_482_" transform="matrix(1 0 0 1 -76.807 305.1657)">
+				<tspan x="0" y="0" class="st7 st8 st9">NUCLEAR</tspan>
+				<tspan x="3.8" y="7" class="st7 st8 st9">POWER</tspan>
+			</text>
+		</g>
+		<g id="XMLID_411_" class="st2">
+			<text id="XMLID_484_" transform="matrix(1 0 0 1 198.9023 305.1653)">
+				<tspan x="0" y="0" class="st7 st8 st9">NATURE</tspan>
+				<tspan x="-8.8" y="7" class="st7 st8 st9">PROTECTION</tspan>
+			</text>
+		</g>
+		<g id="XMLID_417_" class="st2">
+			<text id="XMLID_485_" transform="matrix(1 0 0 1 115.8871 305.1657)">
+				<tspan x="0" y="0" class="st7 st8 st9">GAS</tspan>
+				<tspan x="-8.5" y="7" class="st7 st8 st9">STATION</tspan>
+			</text>
+		</g>
+		<g id="XMLID_432_" class="st2">
+			<text id="XMLID_486_" transform="matrix(1 0 0 1 12.6068 305.166)">
+				<tspan x="0" y="0" class="st7 st8 st9">CHARGING</tspan>
+				<tspan x="3.4" y="7" class="st7 st8 st9">BATTERY</tspan>
+			</text>
+		</g>
+	</g>
+	<g id="headline" class="st0">
+		<circle id="XMLID_61_" class="st10" cx="-133.5" cy="-208.4" r="18.3" />
+		<circle id="XMLID_60_" class="st11" cx="-110.1" cy="-208.4" r="18.3" />
+		<circle id="XMLID_63_" class="st12" cx="-122.7" cy="-190.1" r="18.3" />
+		<g id="XMLID_1_" class="st2">
+			<text id="XMLID_487_" transform="matrix(1 0 0 1 -183.7552 -194.0852)">
+				<tspan x="0" y="0" style="fill:#231F20; font-family:'Oswald-Bold'; font-size:22.512px;">FLAT </tspan>
+				<tspan x="45.5" y="0" style="fill:#231F20; font-family:'Oswald-Light'; font-size:22.512px;">LINE </tspan>
+				<tspan x="83.9" y="0" style="fill:#231F20; font-family:'Oswald-Bold'; font-size:22.512px;">ICONS</tspan>
+			</text>
+		</g>
+		<g id="XMLID_2_" class="st2">
+
+			<text id="XMLID_488_" transform="matrix(1 0 0 1 131.1925 -193.9056)"
+				style="fill:#231F20; font-family:'Oswald-Light'; font-size:16.1735px;">POWER &amp; ENERGY</text>
+		</g>
+	</g>
+</svg>
