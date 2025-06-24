@@ -233,7 +233,6 @@
 
 .features__slide {
   min-height: 200px;
-  padding: 10px;
   border: 1px solid rgba(134, 187, 70, 0.30);
   border-radius: 10px;
 }
@@ -242,22 +241,27 @@
 
 .features__title {}
 
-.features__swiper {
-}
+.features__swiper {}
 
 .features__icon {
   width: 50px;
   height: 50px;
+  padding-block-start: 10px;
+  padding-inline-start: 10px;
   fill: var(--universal-color);
   vertical-align: middle;
 }
 
 .features__small-title {
   font-size: 24px;
+  padding-inline-start: 10px;
   margin-block-end: 10px;
 }
 
-.features__text {}
+.features__text {
+  padding-inline-start: 10px;
+  padding-block-end: 10px;
+}
 
 /* Features End */
 
