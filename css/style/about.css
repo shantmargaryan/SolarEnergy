@@ -241,7 +241,14 @@
 
 .features__title {}
 
-.features__swiper {}
+.features__swiper {
+
+  & .features__slide {
+    min-height: 300px;
+  }
+}
+
+
 
 .features__icon {
   width: 50px;
