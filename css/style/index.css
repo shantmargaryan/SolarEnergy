@@ -196,6 +196,8 @@
 .payment__item {
     border: 2px solid #E3E3E3;
     padding: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
 
     @media(min-width:992px){
         max-width: 500px;
