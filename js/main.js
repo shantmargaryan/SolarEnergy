@@ -28,7 +28,7 @@ const observer = new IntersectionObserver(entries => {
     });
 }, {
     rootMargin: "100px 0px 0px 0px",
-    threshold: 0.5
+    threshold: 0.2
 });
 
 const images = document.querySelectorAll('img[data-src]');

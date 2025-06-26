@@ -30,9 +30,12 @@
 }
 
 .header__logo-icon {
-    width: 153px;
-    height: 85px;
-    flex-shrink: 0;
+    max-width: 110px;
+    height: 83px;
+
+    @media(min-width:992px){
+        max-width: 170px;
+    }
 }
 
 .header__wrapper {
@@ -62,7 +65,7 @@
         display: none;
 
         @media(min-width: 992px) {
-            display: block;
+            display: flex;
         }
     }
 }
@@ -73,12 +76,12 @@
     align-items: center;
     gap: 10px;
     color: #fff;
-    font-size: 18px;
+    font-size: calc(14px + (18 - 14) * ((100vw - 320px) / (1920 - 320)));
 }
 
 .header__social {
     display: flex;
-    gap: 10px;
+    gap: 5px;
 }
 
 .header__social-item {
@@ -93,8 +96,8 @@
 
 .header__contacts-icon,
 .header__social-icon {
-    width: 24px;
-    height: 24px;
+    width: 22px;
+    height: 22px;
     flex-shrink: 0;
 }
 

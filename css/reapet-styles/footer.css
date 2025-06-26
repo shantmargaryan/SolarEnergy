@@ -1,6 +1,6 @@
 .footer {
-  padding-block-start: 5%;
-  background-color: var(--universal-color);
+  padding-block-start: 10px;
+  background-color: var(--title-color);
 }
 
 .footer__container {}

@@ -559,6 +559,10 @@
 .about__subtitle {}
 
 .about__title {
+    margin-block-end: 20px;
+}
+
+.about__text {
     margin-block-end: 30px;
 }
 
